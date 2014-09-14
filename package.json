@@ -1,0 +1,29 @@
+{
+  "name": "slate-irc-message-stream",
+  "version": "0.0.1",
+  "description": "irc-message-stream for slate-irc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyscorp/slate-irc-message-stream.git"
+  },
+  "keywords": [
+    "irc",
+    "stream",
+    "chat"
+  ],
+  "author": "Tyson Cleary <amec@tyscorp.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyscorp/slate-irc-message-stream/issues"
+  },
+  "homepage": "https://github.com/tyscorp/slate-irc-message-stream",
+  "dependencies": {
+    "irc-message": "^2.0.1",
+    "lstream": "0.0.4",
+    "through": "^2.3.4"
+  }
+}
