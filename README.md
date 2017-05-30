@@ -1,4 +1,6 @@
 # slate-irc-message-stream
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tyscorp/slate-irc-message-stream.svg)](https://greenkeeper.io/)
 > A tiny Stream interface for [irc-message](https://github.com/expr/irc-message) that converts it to work with [slate-irc](https://github.com/slate/slate-irc).
 
 ## Installation
